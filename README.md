@@ -1,6 +1,6 @@
 # David.Telecom
 Minhas informações, perfil e trabalhos 
-# Olá, eu sou o [David Celestino]! 👋
+# Olá, eu sou o David Celestino! 
 
 ### 👨‍💻 Sobre Mim
 Sou **Técnico em Telecomunicações** e **Estudante de Programação**. Acredito fortemente na convergência entre a infraestrutura de redes e o desenvolvimento de software. 
@@ -31,8 +31,8 @@ Aqui estão as tecnologias com as quais trabalho e estou estudando ativamente:
 ---
 
 ### 📫 Como me encontrar
-*   💼 LinkedIn: [linkedin.com/in/david-celestino-38086a9b]
-*   📧 E-mail: [david.telecom@gmail.com]
+*   💼 LinkedIn: linkedin.com/in/david-celestino-38086a9b
+*   📧 E-mail: david.telecom@gmail.com
 
 *"O aprendizado é um processo contínuo, e cada linha de código é um passo a mais na evolução."*
 
